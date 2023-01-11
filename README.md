@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Loja virtual desenvolvida durante curso de sass, organizando pastas e subdiretórios conforme arquitetura SMACSS, tendo assim uma estrutura de projeto sass mais limpa e organizada.
+Loja virtual desenvolvida com a tecnologia sass, organizando pastas e subdiretórios conforme arquitetura SMACSS, tendo assim uma estrutura de projeto sass mais limpa e organizada.
 
 Projeto em si, conta com principais seções de um eCommerce moderno e minimalista, tendo como implementar sistema de busca para produtos e de login para clientes. 
 
@@ -65,4 +65,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Feito com ♥ by Gabriel Gonçalves 🖖 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; 
-<a href="#--projeto-agency">Voltar para o Inicio ⬆️ </a>
+<a href="#--ecommerce-electrum-">Voltar para o Inicio ⬆️ </a>
